@@ -1,0 +1,19 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 3282 2160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="BG">
+<mask id="mask0_203_8648" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="3282" height="2160">
+<rect id="BG_2" width="3282" height="2160" fill="var(--fill-0, #F6F7F9)"/>
+</mask>
+<g mask="url(#mask0_203_8648)">
+<g id="Ellipse 24" filter="url(#filter0_f_203_8648)">
+<path d="M1552.68 781.393C1880.11 970.434 2830.89 543.124 2212.85 1379.37C1988.19 1683.35 1465.29 1728.9 1137.86 1539.86C810.434 1350.82 698.212 932.2 887.208 604.849C1076.2 277.497 1225.26 592.351 1552.68 781.393Z" fill="var(--fill-0, #0106FF)" fill-opacity="0.06"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_203_8648" x="395.418" y="62.663" width="2421.69" height="1989.94" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="200" result="effect1_foregroundBlur_203_8648"/>
+</filter>
+</defs>
+</svg>

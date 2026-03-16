@@ -1,0 +1,45 @@
+/**
+ * OneUI Sans GUI Font Loading
+ * EZReco Design System Fonts
+ */
+
+/* One UI Sans GUI - Light 300 */
+@font-face {
+  font-family: 'One UI Sans GUI';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('/fonts/OneUISansGUI-300Light.woff2') format('woff2');
+}
+
+/* One UI Sans GUI - Regular 400 */
+@font-face {
+  font-family: 'One UI Sans GUI';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/OneUISansGUI-400Regular.woff2') format('woff2');
+}
+
+/* One UI Sans GUI - Semibold 600 */
+@font-face {
+  font-family: 'One UI Sans GUI';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/fonts/OneUISansGUI-600SemiBold.woff2') format('woff2');
+}
+
+/* One UI Sans GUI - Bold 700 */
+@font-face {
+  font-family: 'One UI Sans GUI';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/OneUISansGUI-700Bold.woff2') format('woff2');
+}
+
+/* Apply OneUI Sans GUI as default */
+body {
+  font-family: 'One UI Sans GUI', system-ui, sans-serif;
+}
